@@ -24,6 +24,7 @@ E além dos curso citados, fiz alguns cursos na Udemy, School of Net, DevMedia, 
 <!-- -Email: <a href="mailto:daniel_barros@live.com">daniel_barros@live.com</a>-->
 - E-mail: [daniel_barros@live.com](mailto:daniel_barros@live.com)
 - Linkedin: [Daniel Barros](https://www.linkedin.com/in/daniel-barros-373571140/)
+- GitHub: [daniel-sbarros](https://github.com/daniel-sbarros)
 <!-- - Site: [danielbarros.dev](https://danielbarros.dev) 
 
 
