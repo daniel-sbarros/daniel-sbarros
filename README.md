@@ -5,7 +5,7 @@
 <div style="text-align:justify">
 
 <p align="justify">
-Olá, meu nome é Daniel Barros, sou um entusiasta pelo mundo da programação, tendo cursado o Curso Técnico em Informática no Instituto Federal do Maranhão, IFMA, e atualmente estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+Sou aluno do curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e anteriormente cursei o Técnico em Informática no Instituto Federal do Maranhão, IFMA.
 </p>
 <p align="justify">
 E além dos curso citados, fiz alguns cursos na Udemy, School of Net, DevMedia, acumulando conhecimentos em várias tecnologias, entre elas: Ruby/Ruby on Rails, Dart/Flutter, PHP, Xamarin, C#, C/C++, Java, Javascript, VBA, Automação de Tarefas com Selenium e Appium, entre outras.
