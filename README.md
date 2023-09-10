@@ -5,10 +5,10 @@
 <div style="text-align:justify">
 
 <p align="justify">
-Sou aluno do curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e anteriormente cursei o Técnico em Informática no Instituto Federal do Maranhão, IFMA.
+Sou desenvolvedor Full-Stack, formado em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, tenho experiência nas tecnologias mais utilizadas no mercado como Djando, Spring Boot, Kafka, etc.
 </p>
 <p align="justify">
-E além dos curso citados, fiz alguns cursos na Udemy, School of Net, DevMedia, acumulando conhecimentos em várias tecnologias, entre elas: Ruby/Ruby on Rails, Dart/Flutter, PHP, Xamarin, C#, C/C++, Java, Javascript, VBA, Automação de Tarefas com Selenium e Appium, entre outras.
+Venho sempre me atualizando nas tecnologias mais utilizadas no mercado fazendo cursos na Alura, Udemy, School of Net, DevMedia, acumulando conhecimentos em várias tecnologias, entre elas: Ruby/Ruby on Rails, Dart/Flutter, PHP, Xamarin, C#, C/C++, Java, Javascript, VBA, Automação de Tarefas com Selenium e Appium, entre outras.
 </p>
 </div>
 
