@@ -22,7 +22,6 @@ Venho sempre me atualizando nas tecnologias mais utilizadas no mercado fazendo c
 
 ### CONTATO
 <!-- -Email: <a href="mailto:daniel_barros@live.com">daniel_barros@live.com</a>-->
-- E-mail: [daniel_barros@live.com](mailto:daniel_barros@live.com)
 - Linkedin: [Daniel Barros](https://www.linkedin.com/in/daniel-barros-373571140/)
 - GitHub: [daniel-sbarros](https://github.com/daniel-sbarros)
 <!-- - Site: [danielbarros.dev](https://danielbarros.dev) 
